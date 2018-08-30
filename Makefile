@@ -1,4 +1,4 @@
-CC = pdflatex
+CC = xelatex
 VIEWER = evince
 
 SRCDIR = ./src
